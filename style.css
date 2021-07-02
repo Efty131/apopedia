@@ -1,0 +1,140 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.wc {
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.name {
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+.highlight {
+    font-size: 50px;
+    color: #ffab52;
+
+}
+
+h3 {
+    margin-left: 70px;
+}
+
+.p1 {
+    margin-left: 30px;
+}
+
+.Box {
+    width: 40%;
+
+
+
+}
+
+.box>img {
+    width: 100%;
+    margin-left: 750px;
+    margin-top: -400px;
+
+
+}
+
+button {
+    width: 170px;
+    background-color: yellow;
+    margin-right: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+
+
+}
+
+button:hover {
+    background-color: black;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: blue;
+
+}
+
+a:hover {
+    color: white;
+}
+
+.bgtop {
+    background-image: url("images/icon1.png");
+    height: 550px;
+    border: 1px solid white;
+    background-repeat: no-repeat;
+
+
+}
+
+.box2 {
+    width: 40%;
+}
+
+.box2>img {
+    width: 100%;
+    margin-right: 750px;
+    margin-bottom: -400px;
+}
+
+.p1 {
+    margin-right: 30px;
+}
+
+.em {
+    margin-left: 650px;
+}
+
+.wc2 {
+    font-size: 50px;
+    margin-left: 650px;
+    margin-bottom: 50px;
+
+}
+
+.emulator {
+    font-size: 30px;
+    margin-left: 650px;
+}
+
+.p2 {
+    margin-left: 650px;
+
+}
+
+.s2 {
+    background-image: url("images/icon2.png");
+    height: 550px;
+    border: 1px solid white;
+    background-repeat: no-repeat;
+    background-position-x: right;
+
+
+}
+
+.button2 {
+    width: 170px;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+    margin-left: 650px;
+    margin-top: 10px;
+
+
+}
