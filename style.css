@@ -216,5 +216,9 @@ footer {
         flex-direction: column;
     }
 
+    .name{
+        text-align: center;
+    }
+
 
 }
