@@ -10,18 +10,19 @@ section{
 /* section one  */
 
 .wc {
-    font-size: 50px;
+    font-size: 2.5rem;
 
 
 }
 
 .name {
-    font-size: 50px;
+    font-size: 3rem;
+    
 
 }
 
 .highlight {
-    font-size: 50px;
+    
     color: #ffab52;
 
 }
@@ -65,7 +66,7 @@ button:hover {
 
 a {
     text-decoration: none;
-    font-size: 25px;
+    font-size: 1.75rem;
     color: blue;
 
 }
@@ -109,13 +110,13 @@ a:hover {
 .em {}
 
 .wc2 {
-    font-size: 50px;
+    font-size: 2.5rem;
 
 
 }
 
 .emulator {
-    font-size: 30px;
+    font-size: 1.75rem;
 
 }
 
@@ -185,7 +186,7 @@ a:hover {
 
 .Experience>h1 {
     color: rgb(0, 0, 0);
-    font-size: 50px;
+    font-size: 2.5rem;
     margin-left: 30px;
     margin-bottom: 30px;
 }
